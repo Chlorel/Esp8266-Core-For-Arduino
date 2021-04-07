@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduinoEsp8266",
+    "description": "Arduino Framework (ESP8266 Core)",
+    "version": "0.0.0",
+    "url": "https://github.com/Chlorel/Esp8266-Core-For-Arduino"
+} 
